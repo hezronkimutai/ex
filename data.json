@@ -1,0 +1,45 @@
+{
+  "records": [
+    {
+      "id": 8721,
+      "quote": "THis is a new quote update",
+      "author": "Kimutai Kim"
+    },
+    {
+      "id": 5779,
+      "quote": "Use what you’ve been through as fuel, believe in yourself and be unstoppable!",
+      "author": "Yvonne Pierre"
+    },
+    {
+      "id": 3406,
+      "quote": "To succeed, you have to do something and be very bad at it for a while. You have to look bad before you can look really good.",
+      "author": "Barbara DeAngelis"
+    },
+    {
+      "quote": "What is that",
+      "author": "Kimutai",
+      "id": 136
+    },
+    {
+      "quote": "THis is a new quote",
+      "author": "Kimutai Kim",
+      "id": 7613
+    },
+    {
+      "quote": "THis is a new quote",
+      "author": "Kimutai Kim",
+      "id": 9912
+    },
+    {
+      "quote": "THis is a new quote",
+      "author": "Kimutai Kim",
+      "id": 6661
+    },
+    {
+      "id": 7757
+    },
+    {
+      "id": 3605
+    }
+  ]
+}
